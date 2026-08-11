@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-6yoerj.yoursingles.online/sitemap.xml
